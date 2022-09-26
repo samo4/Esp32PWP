@@ -324,6 +324,10 @@
     [
       "c5afba7b-a405-487e-8f86-9655a5685d34",
       "USB2serial"
+    ],
+    [
+      "33466101-493e-4054-bccb-cbccb0edd283",
+      "Boost"
     ]
   ],
   "text_variables": {}
