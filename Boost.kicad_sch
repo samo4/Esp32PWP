@@ -1767,7 +1767,7 @@
     (uuid fb123f28-0bbd-4ae4-9e9f-d7280747206e)
     (property "Reference" "D1" (id 0) (at 187.2615 88.9 0))
     (property "Value" "D_Schottky" (id 1) (at 187.2615 91.44 0))
-    (property "Footprint" "Diode_SMD:D_SMC" (id 2) (at 186.944 95.758 0)
+    (property "Footprint" "Diode_SMD:D_SMA" (id 2) (at 186.944 95.758 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (id 3) (at 186.944 95.758 0)

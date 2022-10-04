@@ -1734,7 +1734,7 @@
       (reference "CC2") (unit 1) (value "TestPoint") (footprint "TestPoint:TestPoint_Pad_D1.0mm")
     )
     (path "/33466101-493e-4054-bccb-cbccb0edd283/fb123f28-0bbd-4ae4-9e9f-d7280747206e"
-      (reference "D1") (unit 1) (value "D_Schottky") (footprint "Diode_SMD:D_SMC")
+      (reference "D1") (unit 1) (value "D_Schottky") (footprint "Diode_SMD:D_SMA")
     )
     (path "/489aedcc-1c9c-4f2f-a9ba-c94b51cc2cfa"
       (reference "D2") (unit 1) (value "LED_GREEN") (footprint "LED_SMD:LED_0603_1608Metric")
