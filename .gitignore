@@ -27,3 +27,4 @@ fp-info-cache
 *-backups
 Gerber*
 #auto_saved_files#
+*.lck
